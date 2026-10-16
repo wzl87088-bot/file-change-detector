@@ -1,0 +1,15 @@
+# Python 缓存和本地环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本机生成的文件快照
+snapshot.json
+snapshot_backup.json
+
+# 编辑器和系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
